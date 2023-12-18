@@ -23,7 +23,7 @@ En mi trayectoria en DO Postproduction, he contribuido al desarrollo de flujos d
 
 - **Berlin (Serie de Netflix)**
   [Descripción breve del proyecto y tu contribución]
-  ![Imagen de Berlin](https://www.pap.pl/sites/default/files/styles/main_image/public/202311/F_svkfGXMAAcuAY.jpg?h=0b47f632&itok=xupNo4Sf)
+  ![Imagen de Berlin](https://s1.dmcdn.net/v/Uvg5I1aYvCA6OYahX/x1080)
 
 - **Sin Huellas (Serie de Prime Video)**
   [Descripción breve del proyecto y tu contribución]
