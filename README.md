@@ -19,19 +19,19 @@ En mi trayectoria en DO Postproduction, he contribuido al desarrollo de flujos d
 
 - **Culpa Mía (Película de Prime Video)**
   [Descripción breve del proyecto y tu contribución]
-  ![Imagen de Culpa Mía]([URL_de_la_imagen](https://i.ytimg.com/vi/GniixV1xZbU/maxresdefault.jpg))
+  ![Imagen de Culpa Mía](https://i.ytimg.com/vi/GniixV1xZbU/maxresdefault.jpg)
 
 - **Berlin (Serie de Netflix)**
   [Descripción breve del proyecto y tu contribución]
-  ![Imagen de Berlin]([URL_de_la_imagen](https://www.pap.pl/sites/default/files/styles/main_image/public/202311/F_svkfGXMAAcuAY.jpg?h=0b47f632&itok=xupNo4Sf))
+  ![Imagen de Berlin](https://www.pap.pl/sites/default/files/styles/main_image/public/202311/F_svkfGXMAAcuAY.jpg?h=0b47f632&itok=xupNo4Sf)
 
 - **Sin Huellas (Serie de Prime Video)**
   [Descripción breve del proyecto y tu contribución]
-  ![Imagen de Sin Huellas]([URL_de_la_imagen](https://m.media-amazon.com/images/S/pv-target-images/a0d0f43dc0479b1a575f2d37bfa29323302ac522205dc2294ce8e5af1f13da0a.jpg))
+  ![Imagen de Sin Huellas](https://m.media-amazon.com/images/S/pv-target-images/a0d0f43dc0479b1a575f2d37bfa29323302ac522205dc2294ce8e5af1f13da0a.jpg)
 
 - **Sky Rojo (Serie de Netflix)**
   [Descripción breve del proyecto y tu contribución]
-  ![Imagen de Sky Rojo]([URL_de_la_imagen](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/151c14f3-8e84-4341-87ca-aa77d57f3a0d/dehlzyz-2c943919-0651-4726-84c5-96cb3858f41e.png))
+  ![Imagen de Sky Rojo](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/151c14f3-8e84-4341-87ca-aa77d57f3a0d/dehlzyz-2c943919-0651-4726-84c5-96cb3858f41e.png)
 
 ### 📫 Contacto
 
@@ -43,3 +43,4 @@ En mi trayectoria en DO Postproduction, he contribuido al desarrollo de flujos d
 ---
 
 Gracias por visitar mi perfil. ¡Espero que disfrutes explorando mis proyectos y colaboraciones en el mundo del VFX!
+
