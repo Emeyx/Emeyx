@@ -11,7 +11,6 @@ En mi trayectoria en DO Postproduction, he contribuido al desarrollo de flujos d
 ### 🛠️ Habilidades Técnicas
 
 - **Pipeline Development**: Experiencia avanzada en el desarrollo de pipelines para VFX, asegurando flujos de trabajo fluidos y eficientes.
-- **Software**: Dominio de creación de flujos de trabajo Nuke y Blender, herramientas esenciales en la industria del VFX. Y además con experiencia en creación de herramientas para estos softwares.
 - **Automatización y Scripting**: Habilidades en programación Python, usando para UI PySide2, para la automatización y la creación de interfaces de usuario personalizadas.
 - **Gestión de Proyectos**: Uso experto de Shotgrid para la gestión y seguimiento de proyectos de VFX.
 
